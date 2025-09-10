@@ -1,0 +1,72 @@
+h2{
+    color: blueviolet;
+}
+p{
+    color: green;
+    font-size: 24px;
+    font-weight: 900;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-transform: uppercase;
+    text-decoration: overline;
+    text-shadow: 2px 2px black;
+    word-spacing: 40px;
+    letter-spacing: 10px;
+    line-height: 30px;
+    word-break: break-all;
+} 
+img{
+    width: 400px;
+    height: 400px;
+    border: 2px solid red;
+    opacity: 0.9;
+    filter: blur(10px);
+}
+a{
+    color:white;
+    text-align:chartreuse ;
+    border: 2pxsolid white;
+    padding: 5px;
+    background-color: aquamarine;
+}
+a:hover{
+    background-color: bisque;
+    color: white;
+    text-decoration: underline;
+}
+body{
+    background-color:aquamarine;
+   background-image: url(ice.jpg);
+    background-repeat:no repeat;
+    background-position: center;
+    background-attachment: fixed;
+}para{
+    color: brown;
+    font-size: 24px;
+    background-color: blanchedalmond;
+}
+#dipara{
+    color: gray;
+    background-color: cornflowerblue;
+}
+h1,a,b,strong{
+    color: firebrick;
+}
+p{
+    padding-top: 100px;
+    padding-right: 150px;
+    padding-bottom: 100px;
+    padding-left: 150px;
+
+    border-top-width: 5px;
+    border-top-style: solid;
+    border-top-color: pink;
+
+    border-right-width: 5px;
+    border-right-style: double;
+    border-right-color: blue;
+
+    border-bottom-width: 5px;
+    border-bottom-style: double;
+    border-top-color:chartreuse ;
+} 
